@@ -4,7 +4,7 @@
 from techzapi.api import TechZApi
 import time
 
-API_KEY = "Your API Key"  # Fill Your Api Key Here
+API_KEY = "SFUQME"  # Fill Your Api Key Here
 
 scrapper = TechZApi.MkvCinemas(API_KEY)
 
